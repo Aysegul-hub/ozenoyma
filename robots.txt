@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ozenoyma.netlify.app/sitemap.xml
